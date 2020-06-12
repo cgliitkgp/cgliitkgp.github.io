@@ -1,0 +1,14 @@
+---
+title: The Smiling Face
+subtitle: Adventure Platformer
+layout: default
+modal-id: 3
+date: 2020-05-26
+img: smiling.jpg
+thumbnail: smiling-thumbnail.png
+alt: image-alt
+project-date: May 2020
+client: Sagar Suman
+category: Game Development
+description: Long before you came to know about Joker, Joker came to know about you. Yes! Joker knows that he's a fictional character, trapped inside the paper bars, guided by the unsaid rules. He knows it because no matter how hard he tries he cannot defeat the hero. Villains are nothing but obstruction for heroes to overcome, "Heroes will always win" were the lines stated by the author. Help him to escape the fake reality by shattering the very law of friction. Chaos is reality, Chaos is natural. Help him to defeat Batman !!
+---

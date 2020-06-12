@@ -1,0 +1,15 @@
+---
+title: The Perfect Theif
+subtitle: Puzzle Platformer
+layout: default
+modal-id: 2
+date: 2020-03-19
+img: thief.jpg
+thumbnail: thief-thumbnail.png
+alt: image-alt
+project-date: March 2020
+client: 
+category: Game Development
+description: the building full of guards, Traps, and Locks unseen.....The ability of invisibility and sneak walking might come in handy.
+
+---

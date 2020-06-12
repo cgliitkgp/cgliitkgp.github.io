@@ -1,0 +1,14 @@
+---
+title: Space Mania
+subtitle: Puzzle Adventure
+layout: default
+modal-id: 5
+date: 2020-06-03
+img: space.png
+thumbnail: space-thumbnail.png
+alt: image-alt
+project-date: June 2020
+client: Dvij Kalaria
+category: Game Development
+description: Heading towards a space mission, you get caught into a wormhole leading your ship to this strange world. Steer your spaceship to escape these complex web of wormholes whilst protecting it from getting hit by frequent meteor showers and alien attacks. Complement your abilities with magical spells and interesting power ups on your way.
+---

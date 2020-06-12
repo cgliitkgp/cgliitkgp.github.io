@@ -1,0 +1,61 @@
+url: https://cgliitkgp.github.io
+baseurl: /home
+
+# Site settings
+title: CGL IIT KGP
+email: cgliitkgp@domain.com
+description: "We make games and lots more. The Computer Graphics Students group of IIT Kharagpur."
+
+
+# Team names, titles and social links
+people:
+- name: Jeevankur Talukder
+  pic: 1
+  position: Head
+  social:
+    - title: linkedin
+      url: https://in.linkedin.com/in/jeevankur1999
+    - title: instagram
+      url: https://www.instagram.com/jvankooo/
+    - title: github
+      url: https://github.com/jvankooo
+
+- name: Sudeep Sharma
+  pic: 2
+  position: Head
+  social:
+    - title: linkedin
+      url: #
+    - title: facebook
+      url: #
+    - title: instagram
+      url: #
+
+- name: Raj Gupta
+  pic: 3
+  position: Head
+  social:
+    - title: linkedin
+      url: #
+    - title: facebook
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: facebook
+    url: https://www.facebook.com/cgliitkgp/
+  - title: instagram
+    url: https://www.instagram.com/cgliitkgp
+  - title: google-plus
+    url: https://play.google.com/store/apps/developer?id=CGL-IIT
+  - title: github
+    url: https://github.com/cgliitkgp
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: Technology Student's Gymkhana
+  - line: Indian Institute of Technology Kharagpur
+
+# Build settings
+markdown: kramdown
+permalink: pretty

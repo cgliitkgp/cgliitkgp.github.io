@@ -1,0 +1,15 @@
+---
+title: Velocity
+subtitle: Endless Runner
+layout: default
+modal-id: 1
+date: 2019-08-05
+img: velocity.jpg
+thumbnail: velocity-thumbnail.png
+alt: image-alt
+project-date: September 2019
+client: Start Bootstrap
+category: Game Development
+description: How Fast can you go ?
+
+---

@@ -1,0 +1,14 @@
+---
+title: Risky Run
+subtitle: Adventure Platformer
+layout: default
+modal-id: 6
+date: 2020-03-25
+img: risky.jpg
+thumbnail: risky-thumbnail.png
+alt: image-alt
+project-date: March 2020
+client: 
+category: Game Development
+description: Get ready with your portal guns and fast moving brains into the unknown in and as Rick and save Morty from the deadly aliens who are onto conspiring a bigger plot ahead.
+---

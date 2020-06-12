@@ -1,0 +1,14 @@
+---
+title: The Passion Followers
+subtitle: Hyper-Casual
+layout: default
+modal-id: 4
+date: 2020-04-23
+img: pass.jpg
+thumbnail: pass-thumbnail.png
+alt: image-alt
+project-date: April 2020
+client: Tejus Darshan
+category: Game Development
+description: Bored of quarantine? Why not give your brain a challenge while you are waiting for your normal life to return. We present to you a game made with passion and enthusiasm which will help your brain get efficient at multitasking while giving it the necessary relax...
+---
