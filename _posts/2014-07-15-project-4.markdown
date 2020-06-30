@@ -2,6 +2,8 @@
 title: The Passion Followers
 subtitle: Hyper-Casual
 layout: default
+link: www.google.com
+title: instagram
 modal-id: 4
 date: 2020-04-23
 img: pass.jpg

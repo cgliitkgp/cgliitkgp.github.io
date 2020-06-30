@@ -1,6 +1,8 @@
 ---
 title: The Smiling Face
 subtitle: Adventure Platformer
+link: www.google.com
+title: instagram
 layout: default
 modal-id: 3
 date: 2020-05-26

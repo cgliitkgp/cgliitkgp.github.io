@@ -1,6 +1,8 @@
 ---
 title: Risky Run
 subtitle: Adventure Platformer
+link: www.google.com
+title: instagram
 layout: default
 modal-id: 6
 date: 2020-03-25
