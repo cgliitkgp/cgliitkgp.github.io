@@ -2,8 +2,7 @@
 title: Space Mania
 subtitle: Puzzle Adventure
 layout: default
-link: www.google.com
-title: instagram
+link: https://play.google.com/store/apps/details?id=com.CGL.SpaceMania&fbclid=IwAR0FBuizL0o9Fc9sxe4b1bCp3Wad3Ww4SZ0ofdV09CVxSpayl7G9qupkOoE
 modal-id: 5
 date: 2020-06-03
 img: space.png

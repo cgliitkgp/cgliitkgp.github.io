@@ -38,6 +38,30 @@ people:
       url: #
     - title: facebook
       url: #
+    - title: instagram
+      url: #
+
+- name: Teyjus Gupta
+  pic: 4
+  position: Sub-Head
+  social:
+    - title: linkedin
+      url: #
+    - title: facebook
+      url: #
+    - title: instagram
+      url: #
+
+- name: Dvij Kalaria
+  pic: 5
+  position: Sub-Head
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/dvij-kalaria-707a5a175/
+    - title: facebook
+      url: https://www.facebook.com/dvij.kalaria/
+    - title: instagram
+      url: https://www.instagram.com/dvij5420/?hl=en
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

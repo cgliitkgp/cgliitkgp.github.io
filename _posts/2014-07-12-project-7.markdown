@@ -1,0 +1,15 @@
+---
+title: Holiday Hops
+subtitle: Adventure Platformer
+link: https://play.google.com/store/apps/details?id=com.CGL.Holiday_hops&fbclid=IwAR0FBuizL0o9Fc9sxe4b1bCp3Wad3Ww4SZ0ofdV09CVxSpayl7G9qupkOoE
+layout: default
+modal-id: 6
+date: 2020-06-25
+img: holiday.jpg
+thumbnail: holiday.jpg
+alt: image-alt
+project-date: June 2020
+client: 
+category: Game Development
+description: Go on a holiday with Mr. Pulo D , and make adventurous leaps with a glider . Save Pulo from falling by avoiding obstacles on this thrilling ride ..
+---

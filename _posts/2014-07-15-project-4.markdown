@@ -2,8 +2,7 @@
 title: The Passion Followers
 subtitle: Hyper-Casual
 layout: default
-link: www.google.com
-title: instagram
+link: https://play.google.com/store/apps/details?id=com.cgl.The_passion_followers
 modal-id: 4
 date: 2020-04-23
 img: pass.jpg

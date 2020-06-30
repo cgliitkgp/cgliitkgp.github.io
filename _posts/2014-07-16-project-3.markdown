@@ -1,9 +1,8 @@
 ---
 title: The Smiling Face
 subtitle: Adventure Platformer
-link: www.google.com
-title: instagram
 layout: default
+link: https://play.google.com/store/apps/details?id=com.CGLIITKGP.The_Smiling_Face
 modal-id: 3
 date: 2020-05-26
 img: smiling.jpg

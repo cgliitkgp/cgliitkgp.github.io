@@ -1,8 +1,7 @@
 ---
 title: Risky Run
 subtitle: Adventure Platformer
-link: www.google.com
-title: instagram
+link: https://play.google.com/store/apps/details?id=com.CGLKharagpur.RicksyRun
 layout: default
 modal-id: 6
 date: 2020-03-25

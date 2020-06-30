@@ -2,8 +2,7 @@
 title: The Perfect Theif
 subtitle: Puzzle Platformer
 layout: default
-link: www.google.com
-title: instagram
+link: https://play.google.com/store/apps/details?id=com.ComputerGraphicsLab.ThePerfectThief
 modal-id: 2
 date: 2020-03-19
 img: thief.jpg

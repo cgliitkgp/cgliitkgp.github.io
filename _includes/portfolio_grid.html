@@ -21,16 +21,14 @@
                     <div class="portfolio-caption">
                         <h4>{{ post.title }}</h4>
                         <p class="text-muted">{{ post.subtitle }}</p>
+                            <li>
+                                <h4> Get it on 
+                                <a href="{{ post.link }}">
+                                    <img src="img/portfolio/playstore.jpg" width=32 height=25>    
+                                </a>
+                                </h4>
+                            </li>
                     </div>
-                    <ul class="list-inline social-buttons">
-                        <li>
-                            <a href="{{ post.url }}">
-                                <i class="fa fa-{{ post.title }}"></i>
-                            </a>
-                        </li>
-                        
-                    </ul>
-                            
                 </div>
             {% endfor %}
             </div>

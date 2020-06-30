@@ -1,9 +1,8 @@
 ---
 title: Velocity
 subtitle: Endless Runner
-link: www.google.com
-title: instagram
 layout: default
+link: https://play.google.com/store/apps/details?id=com.CGLKharagpur.RicksyRun
 modal-id: 1
 date: 2019-08-05
 img: velocity.jpg
