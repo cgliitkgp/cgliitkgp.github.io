@@ -225,6 +225,17 @@ people:
     - title: facebook
       url: https://www.facebook.com/devagarwal588
 
+- name: Sai Narayan
+  pic: 7
+  position: Co-ordinator
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/sai-narayan-0560721b2
+    - title: facebook
+      url: https://www.facebook.com/sai.narayan.735
+    - title: instagram
+      url: https://www.instagram.com/ssainarayan
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: facebook
