@@ -9,7 +9,7 @@ description: "We make games and lots more. The Computer Graphics Students group 
 # Team names, titles and social links
 people:
 - name: Jeevankur Talukder
-  pic: 1
+  pic: 5
   position: Head
   social:
     - title: linkedin
@@ -20,7 +20,7 @@ people:
       url: https://github.com/jvankooo
 
 - name: Sudeep Sharma
-  pic: 2
+  pic: 5
   position: Head
   social:
     - title: linkedin
@@ -31,7 +31,7 @@ people:
       url: #
 
 - name: Raj Gupta
-  pic: 3
+  pic: 5
   position: Head
   social:
     - title: linkedin
@@ -42,7 +42,7 @@ people:
       url: #
 
 - name: Utkarsh Parasarampuria
-  pic: 4
+  pic: 5
   position: Alumni Advisor
   social:
     - title: linkedin
@@ -64,7 +64,7 @@ people:
       url: #
 
 - name: Dvij Kalaria
-  pic: 6
+  pic: 5
   position: Sub-Head
   social:
     - title: linkedin
