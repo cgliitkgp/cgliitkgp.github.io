@@ -40,6 +40,7 @@ people:
       url: #
     - title: instagram
       url: #
+
 - name: Utkarsh Parasarampuria
   pic: 4
   position: Alumni Advisor
@@ -72,16 +73,6 @@ people:
       url: https://www.facebook.com/dvij.kalaria/
     - title: instagram
       url: https://www.instagram.com/dvij5420/?hl=en
-- name: Sai Narayan
-  pic: 7
-  position: Co-ordinator
-  social:
-    - title: linkedin
-      url: https://www.linkedin.com/in/sai-narayan-0560721b2
-    - title: facebook
-      url: https://www.facebook.com/sai.narayan.735
-    - title: instagram
-      url: https://www.instagram.com/ssainarayan
 
 - name: Shreyash Vaish
   pic: 8
