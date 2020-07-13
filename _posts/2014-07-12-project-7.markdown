@@ -9,7 +9,7 @@ img: holiday.jpg
 thumbnail: holiday.jpg
 alt: image-alt
 project-date: June 2020
-client: 
+client: Lavin Titare
 category: Game Development
 description: Go on a holiday with Mr. Pulo D , and make adventurous leaps with a glider . Save Pulo from falling by avoiding obstacles on this thrilling ride ..
 ---
