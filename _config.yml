@@ -41,8 +41,19 @@ people:
     - title: instagram
       url: #
 
-- name: Teyjus Gupta
+- name: Utkarsh Parasarampuria
   pic: 4
+  position: Alumni Advisor
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/utkarsh-parasarampuria/
+    - title: facebook
+      url: https://www.facebook.com/utkarsh.parasarampuria/
+    - title: instagram
+      url: https://www.instagram.com/utkarshparasarampuria/
+
+- name: Teyjus Gupta
+  pic: 5
   position: Sub-Head
   social:
     - title: linkedin
@@ -53,7 +64,7 @@ people:
       url: #
 
 - name: Dvij Kalaria
-  pic: 5
+  pic: 6
   position: Sub-Head
   social:
     - title: linkedin
@@ -62,6 +73,168 @@ people:
       url: https://www.facebook.com/dvij.kalaria/
     - title: instagram
       url: https://www.instagram.com/dvij5420/?hl=en
+
+- name: Sai Narayan
+  pic: 7
+  position: Co-ordinator
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/sai-narayan-0560721b2
+    - title: facebook
+      url: https://www.facebook.com/sai.narayan.735
+    - title: instagram
+      url: https://www.instagram.com/ssainarayan
+
+- name: Shreyash Vaish
+  pic: 8
+  position: Co-ordinator
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/mwlite/in/shreyash-vaish-503559166
+    - title: facebook
+      url: https://m.facebook.com/m.me.shrey.vaish.3
+    - title: instagram
+      url: https://www.instagram.com/_shry_2912/
+
+- name: Shreyas Ranveerkar
+  pic: 9
+  position: Co-ordinator
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/shreyas-ranveerkar-489233192
+    - title: facebook
+      url: https://www.facebook.com/shreyas.ranveerkar
+    - title: instagram
+      url: http://www.instagram.com/ranveerkar_shreyas
+
+- name: Vishal Maurya
+  pic: 10
+  position: Co-ordinator
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/vishal-maurya-94157b1a2
+    - title: facebook
+      url: https://m.facebook.com/vishal.maurya.7503314?ref=bookmarks
+
+- name: Anuj Verma
+  pic: 11
+  position: Co-ordinator
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/anuj-verma-b430431b1/
+    - title: facebook
+      url: https://www.facebook.com/profile.php?id=100039765825690
+    - title: instagram
+      url: https://www.instagram.com/oxone_999/
+
+- name: Shivam Pandey
+  pic: 12
+  position: Co-ordinator
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/shivam-pandey-65a619196/
+    - title: facebook
+      url: https://www.facebook.com/lmshivampandey
+
+- name: Avik Dutta
+  pic: 13
+  position: Co-ordinator
+  social: 
+    - title: facebook
+      url: https://www.facebook.com/avik.dutta.1614460
+    - title: instagram
+      url: https://instagram.com/d__avik?igshid=14f7bwbe6hv9n
+
+- name: Vishal Verma
+  pic: 14
+  position: Co-ordinator
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/vishal-verma-4ba4861aa
+    - title: facebook
+      url: https://www.facebook.com/profile.php?id=100006189586514
+
+- name: Abhisar Dash
+  pic: 15
+  position: Co-ordinator
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/abhisar-dash-599b691ab/
+    - title: facebook
+      url: https://www.facebook.com/abhisar.dash.1
+    - title: instagram
+      url: https://www.instagram.com/abhisardash/?hl=en
+
+- name: Jyotiraditya 
+  pic: 16
+  position: Co-ordinator
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/jyotiraditya-7084b4194/
+    - title: facebook
+      url: https://www.facebook.com/jyotiraditya.aryan?ref=bookmarks
+    - title: instagram
+      url: https://www.instagram.com/jrd19_aryan/?hl=en
+
+- name: Lavin Titare
+  pic: 17
+  position: Co-ordinator
+  social:
+    - title: facebook
+      url: https://www.facebook.com/lavin.titare
+    - title: instagram
+      url: https://www.instagram.com/lavintitare/
+
+- name: Sagar Suman
+  pic: 18
+  position: Co-ordinator
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/sagar-suman-66974b199
+    - title: facebook
+      url: https://m.facebook.com/sagarsuman1299
+    - title: instagram
+      url: https://www.instagram.com/sagarsuman_sonu/
+
+- name: Divyajyoti Nayak
+  pic: 19
+  position: Co-ordinator
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/divyajyoti-nayak-3619731a1/
+    - title: facebook
+      url: https://www.facebook.com/profile.php?id=100009215008158
+    - title: instagram
+      url: https://www.instagram.com/dj_nayak061201/?hl=en
+
+- name: Ojas Deshmukh
+  pic: 20
+  position: Co-ordinator
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/ojas-deshmukh-4a2a041a2
+    - title: facebook
+      url: https://www.facebook.com/ojas.deshmukh.94
+    - title: instagram
+      url: https://www.instagram.com/wiz_of_oj/
+
+- name: Harsh Sharma
+  pic: 21
+  position: Co-ordinator
+  social:
+    - title: facebook
+      url: https://www.facebook.com/profile.php?id=100004573561633
+    - title: instagram
+      url: https://www.instagram.com/harsh8164?r=nametag
+
+- name: Dev Agarwal
+  pic: 22
+  position: Co-ordinator
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/dev-agarwal-846382193
+    - title: facebook
+      url: https://www.facebook.com/devagarwal588
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
